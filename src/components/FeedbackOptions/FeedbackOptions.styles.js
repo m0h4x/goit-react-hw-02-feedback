@@ -23,7 +23,7 @@ export const Button = styled.button`
 `;
 export const Options = styled.div`
   display: flex;
-  width: 250px;
+  width: 450px;
   justify-content: space-around;
 `;
 // export const Text = styled.h3``;
